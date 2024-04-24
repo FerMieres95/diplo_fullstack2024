@@ -1,0 +1,15 @@
+body{
+    color: brown;
+    p{
+        color: aqua;
+    }
+
+    .rojo{
+        color: rgb(228, 22, 22);
+    }
+
+    #verde{
+        background-color: #b8b82b;
+        color: green;
+    }
+}
